@@ -1712,6 +1712,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             <td align="center">
                 <a href="https://github.com/shashi9319">
                     <img src="https://avatars.githubusercontent.com/u/107118244?s=400&v=4" width="100px;" alt="Shubham Raut"/>
+                    <h1>Hi</h1>
                     <br />
                     <sub><b>Shashidhar G</b></sub>
                 </a>
